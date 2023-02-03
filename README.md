@@ -1,1 +1,1 @@
-# RGU-MMA-Society
+# CM1114-Coursework-Example
